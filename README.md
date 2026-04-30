@@ -24,6 +24,10 @@ To avoid version drift and ensure scholarly integrity, all published versions of
   https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6681179  
 - **ORCID Author Record:**  
   https://orcid.org/0009-0000-7611-6323
+  ## Official Records
+- SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6681179
+- Zenodo: (coming soon)
+
 
 GitHub links to these locations but does not duplicate them.
 
