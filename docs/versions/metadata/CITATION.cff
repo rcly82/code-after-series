@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "Code After — A Multilingual Research Programme on What AI Is Doing to the Societies and Institutions We Live In"
+message: "If you use this work, please cite it using the metadata below."
+type: report
+
+authors:
+  - family-names: Yan
+    given-names: Richard
+    orcid: "https://orcid.org/0009-0000-7611-6323"
+
+abstract: >
+  Code After is a global, multilingual research programme examining how AI reshapes
+  societies, institutions, governance systems, and coordination structures. This repository
+  hosts the versioned releases, metadata, and documentation for the Code After Series.
+
+version: "0.9"
+date-released: "2024-04-15"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"
+    description: "Concept DOI for the Code After Series on Zenodo"
+  - type: url
+    value: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6681179"
+    description: "SSRN abstract page for Code After v0.9"
+
+repository-code: "https://github.com/rcly82/code-after-series"
+license: "CC-BY-4.0"
+
+keywords:
+  - AI governance
+  - multilingual research
+  - institutions
+  - global AI transition
+  - Code After Series
