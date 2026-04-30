@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Editor folders
+.vscode/
+.idea/
+
+# Python cache (if ever used)
+__pycache__/
+*.pyc
+
+# macOS metadata
+.AppleDouble
+.LSOverride
+
+# Backup files
+*~
+*.bak
+
+# Node modules (if ever used)
+node_modules/
+
+# Build artifacts
+dist/
+build/
