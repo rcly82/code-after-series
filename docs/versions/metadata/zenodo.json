@@ -1,0 +1,35 @@
+{
+  "title": "Code After — A Multilingual Research Programme on What AI Is Doing to the Societies and Institutions We Live In",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "Code After is a global, multilingual research programme examining how AI reshapes societies, institutions, governance systems, and coordination structures. This record represents the metadata for the Code After Series, including versioned releases, multilingual editions, and supporting documentation.",
+  "creators": [
+    {
+      "name": "Yan, Richard",
+      "orcid": "0009-0000-7611-6323"
+    }
+  ],
+  "keywords": [
+    "AI governance",
+    "multilingual research",
+    "institutions",
+    "global AI transition",
+    "Code After Series"
+  ],
+  "license": "CC-BY-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/rcly82/code-after-series",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6681179",
+      "relation": "isAlternateIdentifier"
+    }
+  ],
+  "notes": "This metadata file supports Zenodo concept DOI creation and versioned releases for the Code After Series.",
+  "language": "eng",
+  "version": "0.9",
+  "publication_date": "2024-04-15"
+}
